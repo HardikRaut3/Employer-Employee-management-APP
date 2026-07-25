@@ -130,10 +130,12 @@ Features are demonstrated using local state management.
 ---
 
 # Screenshots
+Employee
+<img width="1536" height="1024" alt="employee" src="https://github.com/user-attachments/assets/2e6c8992-80b9-45b0-ad1b-5e5e7150a464" />
 
-![Uploading employer.png…]()
 
-![Uploading employee.png…]()
+Employer
+<img width="1024" height="1536" alt="employer" src="https://github.com/user-attachments/assets/60b0571c-fbe1-4072-b45d-6e5c670517f6" />
 
 
 
