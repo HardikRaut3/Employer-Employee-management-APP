@@ -133,7 +133,8 @@ Features are demonstrated using local state management.
 
 ![Uploading employer.png…]()
 
-<img width="1536" height="1024" alt="employee" src="https://github.com/user-attachments/assets/8a6bf315-df2d-4510-9893-808f8a0b591b" />
+![Uploading employee.png…]()
+
 
 
 ---
