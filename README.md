@@ -96,15 +96,16 @@ npx expo start
 Employee
 
 ```
-Username: employee
-Password: employee123
+Username: employee ID
+Password: EMP-001
 ```
 
 Employer
 
 ```
-Username: employer
-Password: employer123
+Username: Hardik@company.com
+
+Password: password123
 ```
 
 ---
