@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "HR Connect",
+    "slug": "hr-connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "hrconnect",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hrconnect.app"
+    },
+    "android": {
+      "package": "com.hrconnect.app"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
